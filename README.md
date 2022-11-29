@@ -4,9 +4,6 @@
 ##  EQUIPMENTS REQUIRED:
 Hardware – PCs
 Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
-## Theory:
-/*Describe here*/
-
 
 ## Algorithm :
 1. Import the libraries and load the dataset.
@@ -22,9 +19,9 @@ Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
 
 ### Program:
 
-#### Developed by:D.Amarnath
+#### Developed by:CH.Naga jyothi
 
-#### Registration number:212221240012
+#### Registration number:212221230014
 
 ```
 import numpy as np
